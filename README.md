@@ -1,6 +1,7 @@
 # webtoon_app
 
-A new Flutter project.
+플러터와 api를 활용한 웹툰 어플리케이션
+
 
 ## Getting Started
 
